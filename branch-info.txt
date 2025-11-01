@@ -1,5 +1,14 @@
 Branches in this repo (with details):
 
+- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
+  SHA: d396b6aa4cbc0775ecb120e9cf48707b5ba312c7
+  Commits: 8
+  Recent commits:
+    d396b6a | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-01T20:21:53Z | Bump python in /presidio-anonymizer
+    282b403 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:51:52Z | Auto-update branch-info.txt
+    76c9804 | Author: Luke Perron <LukeDPerron@users.noreply.github.com> | Committer: Luke Perron <LukeDPerron@users.noreply.github.com> | Date: 2025-10-07T18:51:28Z | git pMerge branch 'lab7'
+    ffa26a5 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:51:08Z | Auto-update branch-info.txt
+    2344bcb | Author: Luke Perron <LukeDPerron@users.noreply.github.com> | Committer: Luke Perron <LukeDPerron@users.noreply.github.com> | Date: 2025-10-07T18:50:31Z | finished
 - dependabot/github_actions/actions/checkout-5
   SHA: f2626d0cba5fe1df2f60784f485f5a585911be87
   Commits: 3
@@ -16,11 +25,11 @@ Branches in this repo (with details):
     ad905c8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T16:58:09Z | Auto-update branch-info.txt
     8df5e33 | Author: LukeDPerron <161392254+LukeDPerron@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-07T12:57:56-04:00 | Initial commit
 - main
-  SHA: 76c9804662fc30509a26cf38baeae3972428f7b9
-  Commits: 6
+  SHA: 282b40319a51cb85823ed399fd6b734d2f745674
+  Commits: 7
   Recent commits:
+    282b403 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:51:52Z | Auto-update branch-info.txt
     76c9804 | Author: Luke Perron <LukeDPerron@users.noreply.github.com> | Committer: Luke Perron <LukeDPerron@users.noreply.github.com> | Date: 2025-10-07T18:51:28Z | git pMerge branch 'lab7'
     ffa26a5 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T18:51:08Z | Auto-update branch-info.txt
     2344bcb | Author: Luke Perron <LukeDPerron@users.noreply.github.com> | Committer: Luke Perron <LukeDPerron@users.noreply.github.com> | Date: 2025-10-07T18:50:31Z | finished
     e634dd1 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T16:58:51Z | Auto-update branch-info.txt
-    ad905c8 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-07T16:58:09Z | Auto-update branch-info.txt
